@@ -1,5 +1,5 @@
 # newmlproject
-# Student Score Prediction Web App
+# Student Score Prediction Web App: https://student-score-predictor-1r1x.onrender.com/
 A Flask web application that predicts student scores based on demographic and test preparation data using machine learning models (CatBoost, XGBoost).
 
 Features
